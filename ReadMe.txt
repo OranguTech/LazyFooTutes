@@ -1,0 +1,1 @@
+https://lazyfoo.net/tutorials/OpenGL/01_hello_opengl/windows/msvsnet2010u/index.php
