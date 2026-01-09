@@ -39,3 +39,5 @@
 
 # debug information files
 *.dwo
+/OGL_00Setup/.vs
+/OGL_00Setup/OGL_00Setup/x64/Debug
