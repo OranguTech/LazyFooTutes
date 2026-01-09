@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OGL_00Setup/OGL_00Setup.vcxproj" Id="42086fbf-8258-4652-a947-0b433926d5e5" />
+</Solution>
